@@ -1,0 +1,5 @@
+target/
+.exercism/
+.lein-failures
+.nrepl-port
+
